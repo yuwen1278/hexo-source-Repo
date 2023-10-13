@@ -1,0 +1,5 @@
+- class_name: 测试
+  path_name: /test
+  type: 2
+  description: test
+  cover: 

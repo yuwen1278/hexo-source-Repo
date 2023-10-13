@@ -1,0 +1,11 @@
+- title: 即刻短文
+  subTitle: 咸鱼的日常生活。
+  tips: 随时随地，分享生活
+  buttonText: 关于我
+  buttonLink: /about/
+  limit: 30
+  home_essay: true
+  top_background: 
+  essay_list:
+    - content: 本站于2023/10/10日搭建
+      date: 2023/10/10
